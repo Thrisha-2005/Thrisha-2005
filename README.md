@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Trisha Krishnappa</h1>
+<h1 align="center">Hi 👋, I'm Thrisha K</h1>
 
 <h3 align="center">
 Computer Science & Engineering Student | Aspiring Software Engineer
